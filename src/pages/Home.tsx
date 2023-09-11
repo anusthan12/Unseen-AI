@@ -55,7 +55,7 @@ const Home: React.FC = () => {
             <div className="actions">
             <button onClick={Seen}><span role="img" aria-label="Reverse">&#x21BA;</span> Reverse</button>
                 <button onClick={copy}><span role="img" aria-label="Clipboard">&#x1F4CB;</span> Copy</button>
-                <button onClick={makeunSeen}><span role="img" aria-label="Lock">&#x1F512;</span> Make Undetectable</button>
+                <button onClick={makeunSeen}><span role="img" aria-label="Lock">&#x1F512;</span> Bypass AI</button>
             </div>
         </div>
     );
