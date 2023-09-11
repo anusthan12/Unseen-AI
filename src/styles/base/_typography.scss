@@ -1,0 +1,16 @@
+body {
+    color: $text;
+}
+h1, p {
+    overflow-wrap: break-word;
+}
+p, button, input, textarea {
+    font-size: 17.5px;
+    border-radius: 40%;
+}
+h1 {
+    font-size: 35px;
+}
+a {
+    text-decoration: none;
+}
